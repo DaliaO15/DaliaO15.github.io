@@ -26,7 +26,7 @@ url                      : #"https://daliao15.github.io/" # the base hostname & 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/DaliaO15" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/img/My_work_v2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Dalia Ortiz Pablo"
-  avatar           : #"/assets/images/My_work_v2.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/My_work_v2.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Data Scientist / Machine Learning Engineer**"
   location         : "Uppsala, Sweden"
   email            :
