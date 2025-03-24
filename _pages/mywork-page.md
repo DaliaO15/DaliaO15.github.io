@@ -9,27 +9,33 @@ intro:
 
 # Feature Row - Current Projects
 feature_row:
-  - image_path: /assets/img/myself.jpeg
+  - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
-    title: "Automatic reading of handwritten letters"
+    title: "Automatic Reading of Handwritten Letters"
     excerpt: "A project in collaboration with the University Library."
     url: /about-page/
     btn_label: "Learn More"
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 2"
-    title: "My Python programming course"
+    title: "My Python Programming Course"
     excerpt: "A collaborative project with Uppsala University and WASP-ED"
     url: /about-page/
     btn_label: "Learn More"
   - image_path: /assets/img/example_plot.png
     alt: "Project 3"
-    title: "VKontakte scraper"
-    excerpt: "A tool for getting data from VK"
+    title: "VKontakte Scraper"
+    excerpt: "A tool for collecting data from VK"
     url: /about-page/
     btn_label: "Learn More"
 
 # Past Projects Ordered by Year
 past_projects:
+  2025:
+    - title: "Version control workshop"
+      description: "Led an introductory workshop on version control with Git and GitHub"
+      url: "https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github"
+    - title: "X-QUEST"
+      description: "In this project I worked with image analysis and OCR to digitalise pictures of periodicals."
   2024:
     - title: "Project Alpha"
       description: "A project on AI and automation."
@@ -51,7 +57,7 @@ past_projects:
 
 {% include feature_row %}
 
-## Past Projects
+## Past Projects and Participation
 
 {% for year in page.past_projects %}
 ### {{ year[0] }}
