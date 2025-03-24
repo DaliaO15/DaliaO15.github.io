@@ -17,12 +17,14 @@ feature_row:
     excerpt: "A project in collaboration with the University Library."
     url: /about-page/
     btn_label: "Learn More"
+    image_width: "200px"
   - image_path: /assets/img/myself.jpeg
     alt: "Project 2"
     title: "My Python programming course"
     excerpt: "A collaborative project with Uppsala University and WASP-ED"
     url: /about-page/
     btn_label: "Learn More"
+    image_width: "200px"
 
 # Past Projects Ordered by Year
 past_projects:
@@ -45,7 +47,7 @@ past_projects:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="center" %}
+{% include feature_row id="feature_row" type="grid" %}
 
 ## Past Projects
 
