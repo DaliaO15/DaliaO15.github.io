@@ -1,0 +1,11 @@
+### Who I am
+
+I am a data scientist with over three years of experience using machine learning and advanced data science techniques to drive decision-making and uncover actionable insights in the 
+science and technology space. I collaborate with stakeholders to test and implement innovative ideas, developing impactful solutions using a diverse range of tools and technologies. 
+My work spans multiple fields—including biology, chemistry, digital humanities, and social sciences—where I have applied both machine learning and/or applied mathematics to solve complex
+problems.
+
+Beyond my professional work, I am deeply passionate about making education accessible to all. For more than six years, I volunteered as an area coordinator and teacher in a non-profit 
+initiative, helping teenagers from marginalized communities in my hometown build strong mathematical foundations.
+
+Outside of work, I’m a book and cat enthusiast who loves dancing, sewing, DIY projects, cooking, and discovering fascinating new things.
