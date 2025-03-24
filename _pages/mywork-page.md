@@ -5,28 +5,24 @@ layout: splash
 
 # Section Title
 intro:
-  - excerpt: "## My Current Work"
+  - excerpt: "## What I am currently doing:"
 
 # Feature Row - Current Projects
 feature_row:
   - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
-    title: "Automatic Reading of Handwritten Letters"
-    excerpt: "A project in collaboration with the University Library."
-    url: /about-page/
-    btn_label: "Learn More"
+    title: "Automatic Reading of Handwritten Historical Letters"
+    excerpt: "ocusing on historical text analysis. It has four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I’m using a mix of computer vision and language models.
+    "
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 2"
-    title: "My Python Programming Course"
-    excerpt: "A collaborative project with Uppsala University and WASP-ED"
-    url: /about-page/
-    btn_label: "Learn More"
+    title: "My Python Programming Lifelong Learning Course"
+    excerpt: "A collaborative project with Uppsala University and WASP-ED. The course is designed to help students learn how to use Python libraries effectively. I decided to focus on libraries for scientific programming and data analysis, giving students practical tools to work with real-world data."
   - image_path: /assets/img/example_plot.png
     alt: "Project 3"
     title: "VKontakte Scraper"
-    excerpt: "A tool for collecting data from VK"
-    url: /about-page/
-    btn_label: "Learn More"
+    excerpt: "A data collection tool built in collaboration with the Dept. of Informatics and Media at UU. I developed the first-ever bulk VKontakte web scraper for extracting data from a non-Western social media platform, making large-scale data collection more efficient and accessible."
+    
 
 # Past Projects Ordered by Year
 past_projects:
