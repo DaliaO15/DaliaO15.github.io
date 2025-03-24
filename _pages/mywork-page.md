@@ -29,7 +29,7 @@ past_projects:
   2025:
     - title: "Version control workshop"
       description: "Led an introductory workshop on version control with Git and GitHub"
-      url: "https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github"
+      link: "https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github"
     - title: "X-QUEST"
       description: "In this project I worked with image analysis and OCR to digitalise pictures of periodicals."
   2024:
