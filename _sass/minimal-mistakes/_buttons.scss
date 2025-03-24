@@ -65,7 +65,7 @@
 
   /* Custom Transparent Purple Button (Outside the Loop) */
 .btn--transparent-purple {
-  color: purple;
+  color: purple !important; 
   background-color: transparent;
   border: 2px solid purple;
 
