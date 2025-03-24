@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Dalia Ortiz Pablo"
-  avatar           : "/assets/img/My_work_v2.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/myself.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Data Scientist / Machine Learning Engineer**"
   location         : "Uppsala, Sweden"
   email            :
