@@ -51,7 +51,7 @@ past_projects:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="grid" %}
+{% include feature_row id="feature_row" type="center" %}
 
 ## Past Projects
 
