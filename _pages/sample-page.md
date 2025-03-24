@@ -18,9 +18,9 @@ feature_row:
     excerpt: "A collaborative project with Uppsala University and WASP-ED"
     url: /about-page/
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--black"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row" type="center" %}
