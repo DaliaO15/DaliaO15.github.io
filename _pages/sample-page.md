@@ -2,7 +2,8 @@
 title: "Sample Page"
 permalink: /sample-page/
 layout: splash
-Centered with `type="center"`'
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/img/myself.jpeg
     alt: "placeholder image 1"
