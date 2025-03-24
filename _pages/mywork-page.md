@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
     title: "Automatic Reading of Handwritten Historical Letters"
-    excerpt: "ocusing on historical text analysis. It has four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I’m using a mix of computer vision and language models.
+    excerpt: "This is a project in collaboration with the University Library, focusing on historical text analysis. It has four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I’m using a mix of computer vision and language models.
     "
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 2"
