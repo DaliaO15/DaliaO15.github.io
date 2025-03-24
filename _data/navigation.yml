@@ -3,6 +3,6 @@ main:
   - title: "About me"
     url: /about-page/
   - title: "My work"
-    url: /sample-page/
+    url: /mywork-page/
   - title: "CV"
     url: /edge-case/
