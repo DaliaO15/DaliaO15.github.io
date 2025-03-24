@@ -21,7 +21,7 @@ feature_row:
     excerpt: "A collaborative project with Uppsala University and WASP-ED"
     url: /about-page/
     btn_label: "Learn More"
-  - image_path: /assets/img/myself.jpeg
+  - image_path: /assets/img/example_plot.png
     alt: "Project 3"
     title: "VKontakte scraper"
     excerpt: "A tool for getting data from VK"
