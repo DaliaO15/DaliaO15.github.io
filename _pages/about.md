@@ -1,11 +1,11 @@
 ---
-title: "Who I am"
+title: "This is who I am"
 permalink: /about-page/
 author_profile: true
 layout: home
 ---
 
-I am a data scientist with over three years of experience using machine learning and advanced data science techniques to drive decision-making and uncover actionable insights in the science and technology space. I collaborate with stakeholders to test and implement innovative ideas, developing impactful solutions using a diverse range of tools and technologies.
+I am a mathematician who went into data science with over three years of experience using machine learning and advanced data science techniques to drive decision-making and uncover actionable insights in the science and technology space. I collaborate with stakeholders to test and implement innovative ideas, developing impactful solutions using a diverse range of tools and technologies.
 
 My work and interests span multiple fields—including biology, chemistry, digital humanities, and social sciences—where I have applied both machine learning and applied mathematics to solve complex problems. What drives me is working on projects that create real impact, whether on a small or large scale. I enjoy tackling challenges and solving problems, as I believe this is the best way to stay sharp and continuously learn.
 
