@@ -2,8 +2,6 @@
 title: "My work"
 permalink: /sample-page/
 layout: splash
-author_profile: true
-classes: wide
 
 # Section Title
 intro:
@@ -51,7 +49,7 @@ past_projects:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="center" %}
+{% include feature_row %}
 
 ## Past Projects
 
