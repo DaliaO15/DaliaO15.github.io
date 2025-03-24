@@ -5,4 +5,4 @@ main:
   - title: "My work"
     url: /sample-page/
   - title: "CV"
-    #url: /collection-archive/
+    url: /edge-case/
