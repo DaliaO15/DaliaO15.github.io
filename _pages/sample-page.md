@@ -17,14 +17,18 @@ feature_row:
     excerpt: "A project in collaboration with the University Library."
     url: /about-page/
     btn_label: "Learn More"
-    image_width: "20px"
   - image_path: /assets/img/myself.jpeg
     alt: "Project 2"
     title: "My Python programming course"
     excerpt: "A collaborative project with Uppsala University and WASP-ED"
     url: /about-page/
     btn_label: "Learn More"
-    image_width: "20px"
+  - image_path: /assets/img/myself.jpeg
+    alt: "Project 3"
+    title: "VKontakte scraper"
+    excerpt: "A tool for getting data from VK"
+    url: /about-page/
+    btn_label: "Learn More"
 
 # Past Projects Ordered by Year
 past_projects:
