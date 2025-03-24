@@ -4,5 +4,5 @@ main:
     url: /about-page/
   - title: "My work"
     url: /mywork-page/
-  - title: "CV"
-    url: /edge-case/
+  - title: "Short CV"
+    url: /_pages/dop_cv_2025.pdf
