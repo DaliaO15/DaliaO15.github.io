@@ -1,6 +1,6 @@
 ---
-layout: home
-author_profile: true
+title: "Who I am"
+permalink: /about-page/
 title: Who I am
 ---
 
