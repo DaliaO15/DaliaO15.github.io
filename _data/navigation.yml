@@ -4,9 +4,9 @@ main:
     url: /about-page/
   - title: "My work"
     url: /mywork-page/
+  - title: "Published Work & Talks"
+    #url: /outreach-page/
   - title: "Short CV"
     url: /_pages/dop_cv_2025.pdf
-  - title: "Events"
-    #url: /_pages/dop_cv_2025.pdf
   - title: "Personal"
-    #url:
+    #url: /personal-page/
