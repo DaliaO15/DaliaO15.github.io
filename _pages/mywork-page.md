@@ -33,19 +33,21 @@ past_projects:
     - title: "Pilot project for X-QUEST"
       description: "In this project I worked with image analysis and OCR to digitalise pictures of printed periodicals from Africa."
   2024:
-    - title: "HRT for psychological tests"
-      description: "Evaluated the applicability of cutting-edge hand written text recognition and vision large language models to extract information from physiological tests of jobseekers"
+    - title: "HTR for psychological tests"
+      description: "Evaluated the applicability of cutting-edge hand written text recognition and vision large language models to extract information from physiological tests of jobseekers."
     - title: "VKontakte web scraper (ongoing)"
       description: "Designed and created a data scraper solution to extract data from VKontakte providing, consequently, the PI with a large dataset for future engagement and text analysis."
+      link: "https://github.com/DaliaO15/VK-post-scraper"
     - title: "Peer programming workshop"
       description: "Led and designed an internal workshop to increase the collaboration and knowledge transfer within the developers in my team."
     - title: "Brought a visitor from the IBERO"
       description: "Initiated a collaboration with the Ibero University in Mexico that led to the visit of a PhD student to the CDHU at Uppsala University."
   2023:
-    - title: "Political parties logos"
+    - title: "Political parties logos detection model"
       description: "Developed an end-to-end ML pipeline to train an object detection model for recognizing political party logos in real-life videos."
     - title: "Tiktok scraper" 
       description: "Developed a data scraper for TikTok, leveraging audio transcription models and text processing to extract insights from short videos."
+      link: "https://github.com/DaliaO15/Tiktok-scraping"
     - title: "Object detection workshop"
       description: "Led and designed a workshop on object detection with Roboflow and the YOLO family."
   2022:
@@ -65,7 +67,8 @@ past_projects:
 {% for year in page.past_projects %}
 ### {{ year[0] }}
 {% for project in year[1] %}
-- {% if project.link %} [{{ project.title }}]({{ project.link }}) {% else %} {{ project.title }} {% endif %}: {{ project.description }}
+- {% if project.link %} **[{{ project.title }}]({{ project.link }})** {% else %} **{{ project.title }}** {% endif %}: {{ project.description }}
 {% endfor %}
 {% endfor %}
+
 
