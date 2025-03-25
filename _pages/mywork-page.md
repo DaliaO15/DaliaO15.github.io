@@ -11,13 +11,13 @@ intro:
 feature_row:
   - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
-    title: "Automatic Reading of Handwritten Historical Letters"
+    title: "Automatic Reading of Handwritten Letters"
     excerpt: "This is a project in collaboration with the University Library, focusing on historical text analysis. It has four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I’m using a mix of computer vision and language models.
     "
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 2"
     title: "My Python Programming Lifelong Learning Course"
-    excerpt: "A collaborative project with Uppsala University and WASP-ED. The course is designed to help students learn how to use Python libraries effectively. I decided to focus on libraries for scientific programming and data analysis, giving students practical tools to work with real-world data."
+    excerpt: "A collaborative project with Uppsala University and WASP-ED. The course is designed to help students learn how to use Python libraries effectively. I decided to focus on libraries for scientific programming and data analysis, giving students practical tools to work with real-world data. The fifth round of the course started this March!"
   - image_path: /assets/img/example_plot.png
     alt: "Project 3"
     title: "VKontakte Scraper"
@@ -28,25 +28,32 @@ feature_row:
 past_projects:
   2025:
     - title: "Version control workshop"
-      description: "Led an introductory workshop on version control with Git and GitHub"
+      description: "Led and designed an introductory workshop on version control with Git and GitHub"
       link: "https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github"
-    - title: "X-QUEST"
-      description: "In this project I worked with image analysis and OCR to digitalise pictures of periodicals."
+    - title: "Pilot project for X-QUEST"
+      description: "In this project I worked with image analysis and OCR to digitalise pictures of printed periodicals from Africa."
   2024:
-    - title: "Project Alpha"
-      description: "A project on AI and automation."
-      url: /project-alpha/
-    - title: "Project Beta"
-      description: "A collaborative effort in data science."
-      url: /project-beta/
+    - title: "HRT for psychological tests"
+      description: "Evaluated the applicability of cutting-edge hand written text recognition and vision large language models to extract information from physiological tests of jobseekers"
+    - title: "VKontakte web scraper (ongoing)"
+      description: "Designed and created a data scraper solution to extract data from VKontakte providing, consequently, the PI with a large dataset for future engagement and text analysis."
+    - title: "Peer programming workshop"
+      description: "Led and designed an internal workshop to increase the collaboration and knowledge transfer within the developers in my team."
+    - title: "Brought a visitor from the IBERO"
+      description: "Initiated a collaboration with the Ibero University in Mexico that led to the visit of a PhD student to the CDHU at Uppsala University."
   2023:
-    - title: "Project Gamma"
-      description: "A research study on machine learning."
-      url: /project-gamma/
+    - title: "Political parties logos"
+      description: "Developed an end-to-end ML pipeline to train an object detection model for recognizing political party logos in real-life videos."
+    - title: "Tiktok scraper" 
+      description: "Developed a data scraper for TikTok, leveraging audio transcription models and text processing to extract insights from short videos."
+    - title: "Object detection workshop"
+      description: "Led and designed a workshop on object detection with Roboflow and the YOLO family."
   2022:
     - title: "Project Delta"
       description: "A web development initiative."
       url: /project-delta/
+  2020:
+  2019:
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -58,7 +65,7 @@ past_projects:
 {% for year in page.past_projects %}
 ### {{ year[0] }}
 {% for project in year[1] %}
-- [{{ project.title }}]({{ project.link }}): {{ project.description }}
+- {% if project.link %} [{{ project.title }}]({{ project.link }}) {% else %} {{ project.title }} {% endif %}: {{ project.description }}
 {% endfor %}
 {% endfor %}
 
