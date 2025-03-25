@@ -55,14 +55,14 @@ past_projects:
   2022:
     - title: "Evaluating the Effectiveness of Active Learning Methods in Drug Repurposing"
       description: "Thesis focusing on the evaluation of active machine learning models for regression and classification in drug repurposing for Covid."
-      url: "https://uu.diva-portal.org/smash/record.jsf?dswid=-6253&pid=diva2%3A1698759&c=3&searchType=SIMPLE&language=en&query=dalia+ortiz+pablo&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all"
+      link: "https://uu.diva-portal.org/smash/record.jsf?dswid=-6253&pid=diva2%3A1698759&c=3&searchType=SIMPLE&language=en&query=dalia+ortiz+pablo&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all"
   2020:
-    - title: ""
+    - title: "Señales de alerta temprana en modelos deterministas de Dermatis Atópica"
       description: "Contributed to and optimised existing code to analyze bifurcations in a hybrid mathematical model for Atopic Dermatitis, demonstrating critical slowing down before a rare bifurcation event and providing insights for potential early-warning indicators."
   2019:
-    - title: "Project Delta"
+    - title: "Señales de alerta temprana en modelos deterministas y estocásticos de sistemas biológicos"
       description: "Thesis on dynamical systems in biological processes, focusing on evaluating the applicability of bifurcation predictions for disease prevention."
-      url: "132.248.9.195/ptd2019/septiembre/0796043/Index.html"
+      link: "132.248.9.195/ptd2019/septiembre/0796043/Index.html"
 ---
 
 {% include feature_row id="intro" type="center" %}
