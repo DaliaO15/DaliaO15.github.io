@@ -6,5 +6,5 @@ main:
     url: /mywork-page/
   - title: "Short CV"
     url: /_pages/dop_cv_2025.pdf
-  - title: "Personal"
-    url: /personal-page/
+  # - title: "Personal"
+  #  url: /personal-page/
