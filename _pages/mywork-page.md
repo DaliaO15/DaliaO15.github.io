@@ -66,7 +66,20 @@ past_projects:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row_two id="feature_row" %}
+<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+  <div style="max-width: 300px; text-align: center;">
+    <img src="/assets/img/handwrittenletter.jpg" alt="Project 1" style="width: 100%;">
+    <h3><a href="https://github.com/DaliaO15/ddpm_model_faces">Generative model of real human faces</a></h3>
+    <p>This project implements a Denoising Diffusion Probabilistic Model (DDPM) to generate realistic human faces from noise.</p>
+  </div>
+
+  <div style="max-width: 300px; text-align: center;">
+    <img src="/assets/img/mypythoncourse.jpg" alt="Project 2" style="width: 100%;">
+    <h3>My Python Programming Lifelong Learning Course</h3>
+    <p>A collaborative project with Uppsala University and WASP-ED, focused on scientific programming and data analysis in Python.</p>
+  </div>
+</div>
+
 
 ## Past Projects and Participation
 
