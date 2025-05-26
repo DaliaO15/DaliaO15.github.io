@@ -66,7 +66,7 @@ past_projects:
 
 {% include feature_row id="intro" type="center" %}
 
-<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 3rem; flex-wrap: wrap;">
   <div style="max-width: 300px; text-align: center;">
     <img src="/assets/img/handwrittenletter.jpg" alt="Project 1" style="width: 100%;">
     <h3><a href="https://github.com/DaliaO15/ddpm_model_faces">Generative model of real human faces</a></h3>
