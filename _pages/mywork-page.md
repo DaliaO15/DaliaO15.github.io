@@ -5,7 +5,7 @@ layout: splash
 
 # Section Title
 intro:
-  - excerpt: "## What I am currently doing:"
+  - excerpt: "## What I am currently working on:"
 
 # Feature Row - Current Projects
 feature_row:
@@ -25,7 +25,7 @@ feature_row:
 past_projects:
   2025:
     - title: "Automatic Reading of Handwritten Letters"
-      descripton: "It had four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I used a mix of computer vision and language models."
+      description: "It had four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I used a mix of computer vision and language models."
     - title: "Version control workshop"
       description: "Led and designed an introductory workshop on version control with Git and GitHub"
       link: "https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github"
@@ -66,7 +66,7 @@ past_projects:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row_two id="feature_row" %}
 
 ## Past Projects and Participation
 
