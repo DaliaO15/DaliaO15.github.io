@@ -30,7 +30,7 @@ feature_row_2025:
     alt: "Project 1"
     title: "Automatic Reading of Handwritten Letters"
     excerpt: "It had four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I used a mix of computer vision and language models."
-  - image_path: /assets/img/version-contro-sample-2.png
+  - image_path: /assets/img/version-control-sample-2.png
     alt: "Project 2"
     title: "Version control workshop"
     url: https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github
