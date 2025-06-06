@@ -9,7 +9,7 @@ intro:
 
 # Feature Row - Current Projects
 feature_row:
-  - image_path: /assets/img/handwrittenletter.jpg
+  - image_path: /assets/img/0059.png
     alt: "Project 1"
     title: "Generative model of real human faces"
     url: "https://github.com/DaliaO15/ddpm_model_faces"
@@ -30,11 +30,12 @@ feature_row_2025:
     alt: "Project 1"
     title: "Automatic Reading of Handwritten Letters"
     excerpt: "It had four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I used a mix of computer vision and language models."
-  - image_path: /assets/img/mypythoncourse.jpg
+  - image_path: /assets/img/version-contro-sample.png
     alt: "Project 2"
-    title: "[Version control workshop](https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github)"
+    title: "Version control workshop"
+    url: https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github
     excerpt: "Led and designed an introductory workshop on version control with Git and GitHub."
-  - image_path: /assets/img/mypythoncourse.jpg
+  - image_path: "https://cdn4.picryl.com/photo/2019/09/05/africa-15cba9-1024.jpg"
     alt: "Project 3"
     title: "Pilot project for X-QUEST"
     excerpt: "In this project I worked with image analysis and OCR to digitalise pictures of printed periodicals from Africa."
