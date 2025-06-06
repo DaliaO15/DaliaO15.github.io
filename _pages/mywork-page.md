@@ -22,7 +22,7 @@ feature_row:
 
 # Section Title
 intro_2025:
-  - excerpt: "# 2025"
+  - excerpt: "# 2025:"
 
 # Feature Row - 2025
 feature_row_2025:
@@ -30,7 +30,7 @@ feature_row_2025:
     alt: "Project 1"
     title: "Automatic Reading of Handwritten Letters"
     excerpt: "It had four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I used a mix of computer vision and language models."
-  - image_path: /assets/img/version-contro-sample.png
+  - image_path: /assets/img/version-contro-sample-2.png
     alt: "Project 2"
     title: "Version control workshop"
     url: https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github
@@ -40,18 +40,30 @@ feature_row_2025:
     title: "Pilot project for X-QUEST"
     excerpt: "In this project I worked with image analysis and OCR to digitalise pictures of printed periodicals from Africa."
 
+# Section Title
+intro_2024:
+  - excerpt: "# 2024:"
+
+# Feature Row - 2024
+feature_row_2024:
+  - image_path: /assets/img/psychotests.png
+    alt: "Project 1"
+    title: "HTR for psychological tests"
+    excerpt: "Evaluated the applicability of cutting-edge hand written text recognition and vision large language models to extract information from physiological tests of jobseekers."
+  - image_path: /assets/img/example_plot.png
+    alt: "Project 2"
+    title: "VKontakte web scraper"
+    url: "https://github.com/DaliaO15/VK-post-scraper"
+    excerpt: "I developed the first-ever bulk VKontakte web scraper for extracting data from a non-Western social media platform, making large-scale data collection more efficient and accessible."
+  - image_path: "https://images.pexels.com/photos/4974912/pexels-photo-4974912.jpeg"
+    alt: "Project 3"
+    title: "Peer programming workshop"
+    excerpt: "Led and designed an internal workshop to increase the collaboration and knowledge transfer within the developers in my team."
+
 
 
 # Past Projects Ordered by Year
 past_projects:
-  2025:
-    - title: "Automatic Reading of Handwritten Letters"
-      description: "It had four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I used a mix of computer vision and language models."
-    - title: "Version control workshop"
-      description: "Led and designed an introductory workshop on version control with Git and GitHub"
-      link: "https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github"
-    - title: "Pilot project for X-QUEST"
-      description: "In this project I worked with image analysis and OCR to digitalise pictures of printed periodicals from Africa."
   2024:
     - title: "HTR for psychological tests"
       description: "Evaluated the applicability of cutting-edge hand written text recognition and vision large language models to extract information from physiological tests of jobseekers."
@@ -92,6 +104,10 @@ past_projects:
 {% include feature_row id="intro_2025" type="center" %}
 
 {% include feature_row id="feature_row_2025" %}
+
+{% include feature_row id="intro_2024" type="center" %}
+
+{% include feature_row id="feature_row_2024" %}
 
 
 ## Past Projects and Participation
