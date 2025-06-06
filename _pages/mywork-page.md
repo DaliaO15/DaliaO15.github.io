@@ -20,7 +20,7 @@ feature_row:
     link: "https://wasp-ed.org/python/"
     excerpt: "A collaborative project with Uppsala University and WASP-ED, focused on Python libraries for scientific programming and data analysis."
 
-# Feature Row 2025 - Other
+# Feature Row - Other
 feature_row_2025:
   - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
@@ -80,9 +80,9 @@ past_projects:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row type="center" %}
+{% include feature_row id="feature_row" %}
 
-{% include feature_row_2025 %}
+{% include feature_row id="feature_row_2025" %}
 
 
 ## Past Projects and Participation
