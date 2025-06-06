@@ -9,16 +9,13 @@ intro:
 
 # Feature Row - Current Projects
 feature_row:
-  - excerpt: "## What I am currently working on:"
   - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
-    title: "Generative model of real human faces"
-    link: "https://github.com/DaliaO15/ddpm_model_faces"
+    title: "[Generative model of real human faces](https://github.com/DaliaO15/ddpm_model_faces)"
     excerpt: "This project implements a Denoising Diffusion Probabilistic Model (DDPM) to generate realistic human faces."
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 2"
-    title: "My Python Programming Lifelong Learning Course"
-    link: "https://wasp-ed.org/python/"
+    title: "[My Python Programming Lifelong Learning Course](https://wasp-ed.org/python/)"
     excerpt: "A collaborative project with Uppsala University and WASP-ED, focused on Python libraries for scientific programming and data analysis."
 
 # Feature Row - Other
@@ -30,8 +27,7 @@ feature_row_2025:
     excerpt: "It had four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I used a mix of computer vision and language models."
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 2"
-    title: "Version control workshop"
-    link: "https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github"
+    title: "[Version control workshop](https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github)"
     excerpt: "Led and designed an introductory workshop on version control with Git and GitHub."
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 3"
@@ -87,7 +83,7 @@ past_projects:
 
 {% include feature_row id="feature_row" %}
 
-{% include feature_row id="feature_row_2025" type="center" %}
+{% include feature_row id="feature_row_2025" %}
 
 
 ## Past Projects and Participation
