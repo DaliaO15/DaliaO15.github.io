@@ -9,6 +9,7 @@ intro:
 
 # Feature Row - Current Projects
 feature_row:
+  - excerpt: "## What I am currently working on:"
   - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
     title: "Generative model of real human faces"
@@ -22,16 +23,20 @@ feature_row:
 
 # Feature Row - Other
 feature_row_2025:
+  - excerpt: "# 2025:"
   - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
-    title: "Generative model of real human faces"
-    link: "https://github.com/DaliaO15/ddpm_model_faces"
-    excerpt: "This project implements a Denoising Diffusion Probabilistic Model (DDPM) to generate realistic human faces."
+    title: "Automatic Reading of Handwritten Letters"
+    excerpt: "It had four main parts: handwritten text recognition, translation (from 1700s Swedish to English), summarization, and NER. To tackle this, I used a mix of computer vision and language models."
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 2"
-    title: "My Python Programming Lifelong Learning Course"
-    link: "https://wasp-ed.org/python/"
-    excerpt: "A collaborative project with Uppsala University and WASP-ED, focused on Python libraries for scientific programming and data analysis."
+    title: "Version control workshop"
+    link: "https://www.uu.se/centrum/digital-humaniora-och-samhallsvetenskap/kalendarium/arkiv/2025-03-19-introduction-to-version-control-with-git--github"
+    excerpt: "Led and designed an introductory workshop on version control with Git and GitHub."
+  - image_path: /assets/img/mypythoncourse.jpg
+    alt: "Project 3"
+    title: "Pilot project for X-QUEST"
+    excerpt: "In this project I worked with image analysis and OCR to digitalise pictures of printed periodicals from Africa."
 
 
 
@@ -82,7 +87,7 @@ past_projects:
 
 {% include feature_row id="feature_row" %}
 
-{% include feature_row id="feature_row_2025" %}
+{% include feature_row id="feature_row_2025" type="center" %}
 
 
 ## Past Projects and Participation
