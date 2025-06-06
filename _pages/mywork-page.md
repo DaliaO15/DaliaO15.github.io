@@ -5,22 +5,27 @@ layout: splash
 
 # Section Title
 intro:
-  - excerpt: "## What I am currently working on:"
+  - excerpt: "# What I am currently working on:"
 
 # Feature Row - Current Projects
 feature_row:
   - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
-    title: "[Generative model of real human faces](https://github.com/DaliaO15/ddpm_model_faces)"
+    title: "Generative model of real human faces"
+    url: "https://github.com/DaliaO15/ddpm_model_faces"
     excerpt: "This project implements a Denoising Diffusion Probabilistic Model (DDPM) to generate realistic human faces."
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 2"
-    title: "[My Python Programming Lifelong Learning Course](https://wasp-ed.org/python/)"
+    title: "My Python Programming Lifelong Learning Course"
+    url: "https://wasp-ed.org/python/"
     excerpt: "A collaborative project with Uppsala University and WASP-ED, focused on Python libraries for scientific programming and data analysis."
 
-# Feature Row - Other
+# Section Title
+intro_2025:
+  - excerpt: "# 2025"
+
+# Feature Row - 2025
 feature_row_2025:
-  - excerpt: "# 2025:"
   - image_path: /assets/img/handwrittenletter.jpg
     alt: "Project 1"
     title: "Automatic Reading of Handwritten Letters"
@@ -82,6 +87,8 @@ past_projects:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row" %}
+
+{% include feature_row id="intro_2025" type="center" %}
 
 {% include feature_row id="feature_row_2025" %}
 
