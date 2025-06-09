@@ -113,7 +113,7 @@ past_projects:
 {% include feature_row id="feature_row_2023" %}
 
 
-## Before 2023:
+## Before:
 
 {% for year in page.past_projects %}
 ### {{ year[0] }}
