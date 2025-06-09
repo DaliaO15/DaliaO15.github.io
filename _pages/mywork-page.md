@@ -66,7 +66,7 @@ intro_2023:
 
 # Feature Row - 2023
 feature_row_2023:
-  - image_path: /assets/img/psychotests.png
+  - image_path: /assets/img/logo-detection.png
     alt: "Project 1"
     title: "Political parties logos detection model"
     excerpt: "Developed an end-to-end ML pipeline to train an object detection model for recognizing political party logos in real-life videos."
