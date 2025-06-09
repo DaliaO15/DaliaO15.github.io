@@ -75,9 +75,9 @@ feature_row_2023:
     title: "Tiktok scraper"
     url: "https://github.com/DaliaO15/Tiktok-scraping"
     excerpt: "Developed a data scraper for TikTok, leveraging audio transcription models and text processing to extract insights from short videos."
-  - image_path: /assets/img/psychotests.png
+  - image_path: /assets/img/cup-or-glass.png
     alt: "Project 1"
-    title: "/assets/img/cup-or-glass.png"
+    title: "Object detection workshop"
     excerpt: "Led and designed a techinical workshop about object detection with Roboflow and the YOLO family."
 
 
