@@ -83,14 +83,6 @@ feature_row_2023:
 
 # Past Projects Ordered by Year
 past_projects:
-  2023:
-    - title: "Political parties logos detection model"
-      description: "Developed an end-to-end ML pipeline to train an object detection model for recognizing political party logos in real-life videos."
-    - title: "Tiktok scraper" 
-      description: "Developed a data scraper for TikTok, leveraging audio transcription models and text processing to extract insights from short videos."
-      link: "https://github.com/DaliaO15/Tiktok-scraping"
-    - title: "Object detection workshop"
-      description: "Led and designed a workshop on object detection with Roboflow and the YOLO family."
   2022:
     - title: "Evaluating the Effectiveness of Active Learning Methods in Drug Repurposing"
       description: "Thesis focusing on the evaluation of active machine learning models for regression and classification in drug repurposing for Covid."
@@ -121,7 +113,7 @@ past_projects:
 {% include feature_row id="feature_row_2023" %}
 
 
-## Past Projects and Participation
+## Before 2023:
 
 {% for year in page.past_projects %}
 ### {{ year[0] }}
