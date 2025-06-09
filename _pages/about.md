@@ -5,7 +5,7 @@ author_profile: true
 layout: home
 ---
 
-I’m a mathematician who found her way into data science. For the past 3+ years, I’ve been using machine learning and advanced analytics to support decision-making and uncover actionable insights—mainly in science and technology. I enjoy collaborating with stakeholders to test ideas and build solutions that actually make a difference.
+I’m a mathematician who found her way into machine learning and data science. For the past 3+ years, I’ve been using these tools to support decision-making and uncover actionable insights—mainly in science and technology. I enjoy collaborating with stakeholders to test ideas and build solutions that actually make a difference.
 
 What I do:
 * Use machine learning and applied mathematics to solve problems across diverse fields—biology, chemistry, digital humanities, and social sciences.
