@@ -17,12 +17,13 @@ feature_row:
   - image_path: /assets/img/mypythoncourse.jpg
     alt: "Project 2"
     title: "My Python Programming Lifelong Learning Course"
-    url: "https://wasp-ed.org/python/"
-    excerpt: "A collaborative project with Uppsala University and WASP-ED, focused on Python libraries for scientific programming and data analysis."
+    url: "https://wasp-ed.org/wp-content/uploads/2025/01/Kursguide_1.4.pdf"
+    excerpt: "A collaborative project with Uppsala University and WASP-ED, focused on Python libraries for scientific programming, data analysis and text processing."
 
 # Section Title
 intro_2025:
-  - excerpt: "# 2025:"
+  - excerpt: "# Other Selected Projects"
+  - excerpt: "## 2025:"
 
 # Feature Row - 2025
 feature_row_2025:
@@ -42,7 +43,7 @@ feature_row_2025:
 
 # Section Title
 intro_2024:
-  - excerpt: "# 2024:"
+  - excerpt: "## 2024:"
 
 # Feature Row - 2024
 feature_row_2024:
@@ -62,7 +63,7 @@ feature_row_2024:
 
 # Section Title
 intro_2023:
-  - excerpt: "# 2023:"
+  - excerpt: "## 2023:"
 
 # Feature Row - 2023
 feature_row_2023:
